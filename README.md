@@ -40,6 +40,7 @@ Couvre les deux blocs de compétences du titre :
 [Insère ici ton schéma d'architecture — export PNG depuis draw.io/diagrams.net]
 
 ## Documentation détaillée
+- [Structure Active Directory (domaine, OU, groupes AGDLP, GPO)](docs/active-directory.md)
 - [Segmentation réseau & règles pare-feu](docs/segmentation.md)
 - [Diagnostic & résolution de pannes](docs/troubleshooting.md)
 - [Limitations documentées](docs/limitations.md)
